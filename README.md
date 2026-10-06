@@ -23,5 +23,6 @@ application that loads the model.
 ## Model and attribution
 
 The asset derives from the A7/L6 workcell model in MuJoCoDex and includes
-XR Robotics assets. The original notices are in `LICENSE.MuJoCoDex` and
-`LICENSE.XRoboToolkit`.
+XR Robotics assets. The repository author’s contribution is released under the
+[MIT License](LICENSE), also recorded in `LICENSE.MuJoCoDex`. Upstream XR Robotics
+material retains its [original MIT notice](LICENSE.XRoboToolkit).
