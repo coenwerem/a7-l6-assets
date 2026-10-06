@@ -1,6 +1,6 @@
 {
   "asset": "robot.usdc",
-  "sha256": "56df6634136abc2f97fdd942e984c1365e29a88077aa97cc60cf2f477083f88c",
+  "sha256": "b66f9bf8663820b0aeb6e4e21795ca78385b525c121296d91abca00714290eb5",
   "format": "flattened USD, embedded geometry",
   "external_asset_dependencies": [],
   "isaac_sim_material_dependency": "OmniPBR.mdl"
