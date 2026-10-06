@@ -10,8 +10,6 @@ built-in OmniPBR material. `manifest.json` records its SHA256 digest.
 ## Clone
 
 ```bash
-mkdir -p ~/ResearchProjects
-cd ~/ResearchProjects
 git clone https://github.com/coenwerem/a7-l6-assets.git
 ```
 
