@@ -24,5 +24,5 @@ application that loads the model.
 
 The asset derives from the A7/L6 workcell model in MuJoCoDex and includes
 XR Robotics assets. The repository author’s contribution is released under the
-[MIT License](LICENSE), also recorded in `LICENSE.MuJoCoDex`. Upstream XR Robotics
+[MIT License](LICENSE). Upstream XR Robotics
 material retains its [original MIT notice](LICENSE.XRoboToolkit).
