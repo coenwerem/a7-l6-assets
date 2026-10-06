@@ -1,7 +1,7 @@
 # A7/L6 Assets
 
 A7 robot with bilateral Linker L6 hands, assembled for IsaacLab simulation.
-Model assembly and IsaacLab conversion by Clinton Enwerem.
+Model assembly and IsaacLab conversion by the repository author.
 
 `robot.usdc` is a self-contained USD articulation with embedded meshes, collision
 geometry, inertias, joint limits and mimic relationships. It uses Isaac Sim's
